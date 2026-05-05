@@ -43,3 +43,5 @@ next-env.d.ts
 CLAUDE.md
 .claude/*
 claude_design/
+.vercel
+.env*.local
